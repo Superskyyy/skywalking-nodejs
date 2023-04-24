@@ -75,8 +75,8 @@
     "wait-for-expect": "^3.0.2"
   },
   "dependencies": {
-    "@grpc/grpc-js": "^1.6.7",
-    "google-protobuf": "^3.14.0",
+    "@grpc/grpc-js": "1.8.14",
+    "google-protobuf": "55.21.2",
     "husky": "^7.0.4",
     "semver": "^7.3.2",
     "tslib": "^2.0.3",
